@@ -25,10 +25,10 @@ It is recommended to use a conda environment for this project. The project has b
 1. Clone this repository:
 git clone https://github.com/Zubinprannoy10/Silent_speech_OpenBCI.git
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 pip install -r requirements.txt
 
-4. Ensure you have the OpenBCI Cyton board or anyother biosensing board having support for brainflow properly connected.
+3. Ensure you have the OpenBCI Cyton board or any other biosensing board having brainflow support properly connected.
 
 ## Usage
 
