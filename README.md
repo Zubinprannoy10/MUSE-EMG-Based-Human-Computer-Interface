@@ -24,7 +24,6 @@ It is recommended to use a conda environment for this project. The project has b
 
 1. Clone this repository:
 git clone https://github.com/Zubinprannoy10/Silent_speech_OpenBCI.git
-cd Silent_speech_OpenBCI
 
 3. Install the required dependencies:
 pip install -r requirements.txt
