@@ -1,4 +1,4 @@
-# MUSE : EMG based Human Computer Interface 
+# MUSE : EMG Based Human Computer Interface 
 
 This project implements a silent speech recognition system using EMG (Electromyography) signals. It records EMG data from an OpenBCI Cyton board, processes the signals, predicts words from silent speech, and uses these predictions to perform web searches or tell the time.
 
