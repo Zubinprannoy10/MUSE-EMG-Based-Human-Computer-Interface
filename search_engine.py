@@ -35,8 +35,8 @@ if query.lower() in ['what+time+now', 'now+time+what']:
         print("Failed to retrieve current time.")
 else:
     # Use Google Custom Search API for other queries
-    API_KEY = "AIzaSyB-TxVhT_LQ7tH8w3RHfyoHJ9fTjBjZhh4"
-    SEARCH_ENGINE_ID = "c32858bdfd68d4fc1"
+    API_KEY = "yourapi"
+    SEARCH_ENGINE_ID = "your_searchengine_id"
     num_results = 1
 
     # Perform the prediction and get the query string
