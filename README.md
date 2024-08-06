@@ -2,6 +2,8 @@
 
 This project implements a silent speech recognition system using EMG (Electromyography) signals. It records EMG data from an OpenBCI Cyton board, processes the signals, predicts words from silent speech, and uses these predictions to perform web searches or tell the time.
 
+**Link to Linkedin post**: https://www.linkedin.com/posts/ignitious-zubin-prannoy-b61a791bb_muse-emg-based-human-computer-interface-activity-7194702493157580801-ojje?utm_source=share&utm_medium=member_desktop 
+
 ## Components
 
 1. **EMG Recording** (`record_emg.py`): Records EMG data using an OpenBCI Cyton board.
@@ -56,6 +58,10 @@ pip install -r requirements.txt
     python interface.py
     ```
 Note: Make sure to include your Google api key and  search engine id in the search_engine.py script.
+
+### Link to Linkedin post
+
+
 
 ## Contributing
 
