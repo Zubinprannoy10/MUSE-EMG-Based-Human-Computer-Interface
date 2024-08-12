@@ -59,10 +59,6 @@ pip install -r requirements.txt
     ```
 Note: Make sure to include your Google api key and  search engine id in the search_engine.py script.
 
-### Link to Linkedin post
-
-
-
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
